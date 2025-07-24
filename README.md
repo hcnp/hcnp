@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there ✨
+
+[![Hennings's github stats](https://github-readme-stats.vercel.app/api?username=hcnp&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/hcnp)
+[![Hennings's github stats](https://github-readme-stats.vercel.app/api?username=hcnp&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/hcnp)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcnp&theme=dark#gh-dark-mode-only))](https://github.com/hcnp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcnp&theme=default#gh-light-mode-only)](https://github.com/hcnp)
 
 <!--
 **hcnp/hcnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
