@@ -1,3 +1,4 @@
+# https://github.com/stats-organization/github-readme-stats-action
 name: Update README cards
 
 on:
@@ -8,8 +9,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
